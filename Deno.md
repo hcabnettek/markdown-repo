@@ -9,7 +9,7 @@
 
 <center>
 
-<span style="font-size: small;">*Written By:*</span> Chris Kettenbach 
+<span align="center" style="font-size: small;">*Written By:*</span> Chris Kettenbach 
 </center>
 
 
